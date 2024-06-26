@@ -4,7 +4,7 @@
 
 **Meu nome é MELISSA HERCULANO NASCIMENTO**
 
--Estou estudando no [Alura](https://www.alura.com.br)
+-Estou estudando mo [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo no JavaScript
 
